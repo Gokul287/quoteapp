@@ -51,7 +51,7 @@
     font-family: poppins;
     word-spacing: 0.2px;
     font-size: 1.5rem;
-    text-align: justify;
+   
 }
 .card button{
     
@@ -98,5 +98,9 @@
   }
   .card .con{
     font-size: 1rem;
+  }
+  .card{
+    width: 60%;
+    height: 50%;
   }
 }
